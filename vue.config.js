@@ -1,3 +1,4 @@
+# update project wuri1
 module.exports = {
   lintOnSave: false,
   runtimeCompiler: true,
